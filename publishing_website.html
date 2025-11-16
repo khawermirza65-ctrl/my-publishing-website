@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Your Publishing Company — Professional Self-Publishing Services</title>
+  <meta name="description" content="Full-service self-publishing: editing, cover design, formatting, distribution, and marketing for authors in the US & UK." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --bg:#0b0b0b; /* deep black */
+      --card:#0f0f0f;
+      --muted:#bdbdbd;
+      --accent:#d62828; /* red */
+      --white:#ffffff;
+      --max-width:1100px;
+      font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%;margin:0;background:var(--bg);color:var(--white);}
+    a{color:var(--accent);text-decoration:none}
+    .wrap{max-width:var(--max-width);margin:0 auto;padding:28px}
+
+    /* header */
+    header{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px 0}
+    .brand{display:flex;align-items:center;gap:12px}
+    .logo{width:52px;height:52px;border-radius:8px;background:linear-gradient(135deg,var(--white),var(--accent));display:flex;align-items:center;justify-content:center;color:var(--bg);font-weight:800}
+    nav{display:flex;gap:18px;align-items:center}
+    .btn{background:var(--accent);color:var(--white);padding:10px 16px;border-radius:8px;font-weight:600}
+
+    /* hero */
+    .hero{display:grid;grid-template-columns:1fr;gap:20px;align-items:center;padding:44px 0}
+    .hero h1{font-size:clamp(28px,5vw,44px);line-height:1.02;margin:0}
+    .hero p{color:var(--muted);margin:12px 0 0}
+    .hero-cta{margin-top:18px;display:flex;gap:12px}
+
+    /* services */
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;margin-top:28px}
+    .card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));padding:18px;border-radius:12px}
+    .card h3{margin:0 0 8px}
+    .muted{color:var(--muted)}
+
+    /* book gallery */
+    .books{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px;margin-top:20px}
+    .book{background:var(--card);border-radius:8px;padding:12px;display:flex;flex-direction:column;align-items:center}
+    .book img{width:100%;height:200px;object-fit:cover;border-radius:6px}
+    .book h4{font-size:14px;margin:8px 0 0}
+
+    /* contact */
+    .contact{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:28px}
+    form{display:flex;flex-direction:column;gap:12px}
+    input,textarea,select{padding:12px;border-radius:8px;border:1px solid rgba(255,255,255,0.06);background:transparent;color:var(--white)}
+    textarea{min-height:140px;resize:vertical}
+
+    footer{border-top:1px solid rgba(255,255,255,0.04);margin-top:48px;padding-top:20px;color:var(--muted)}
+
+    /* responsive */
+    @media (max-width:880px){
+      .contact{grid-template-columns:1fr}
+      header{padding:12px 0}
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <div class="logo">YP</div>
+        <div>
+          <div style="font-weight:700">Your Publishing Company</div>
+          <div style="font-size:13px;color:var(--muted)">Full-service self-publishing (US & UK)</div>
+        </div>
+      </div>
+
+      <nav>
+        <a href="#services">Services</a>
+        <a href="#books">Books</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+        <a class="btn" href="#contact">Get a Quote</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div>
+          <h1>Publish your book with confidence — editing, design and global distribution.</h1>
+          <p class="muted">We help authors write better, design beautifully and reach readers worldwide. Services: editing, cover design, formatting, distribution, and marketing.</p>
+          <div class="hero-cta">
+            <a class="btn" href="#contact">Submit Manuscript</a>
+            <a href="#services" style="align-self:center;color:var(--white);padding:10px 12px;border-radius:8px;border:1px solid rgba(255,255,255,0.06);">See Services</a>
+          </div>
+        </div>
+      </section>
+
+      <section id="services">
+        <h2 style="margin-top:18px">Our Services</h2>
+        <div class="grid">
+          <div class="card">
+            <h3>Editing & Proofreading</h3>
+            <p class="muted">Developmental editing, copyediting and line editing to polish your manuscript for readers and reviewers.</p>
+          </div>
+          <div class="card">
+            <h3>Cover & Interior Design</h3>
+            <p class="muted">Professional cover design, typography and interior layout for print and eBook.</p>
+          </div>
+          <div class="card">
+            <h3>Formatting (eBook & Print)</h3>
+            <p class="muted">Clean, platform-ready formats (EPUB, MOBI, print-ready PDF).</p>
+          </div>
+          <div class="card">
+            <h3>Distribution & ISBN</h3>
+            <p class="muted">Wide distribution across Amazon, Apple Books, Kobo and global channels. ISBN registration available.</p>
+          </div>
+          <div class="card">
+            <h3>Book Marketing</h3>
+            <p class="muted">Launch strategies, metadata optimization, ads, and PR outreach for your book's visibility.</p>
+          </div>
+          <div class="card">
+            <h3>Author Websites & Audiobooks</h3>
+            <p class="muted">Author site creation and audiobook production services to expand your audience.</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="books">
+        <h2 style="margin-top:28px">Selected Books</h2>
+        <p class="muted">Showcase your published titles here. Replace the placeholder covers with your book images.</p>
+        <div class="books">
+          <div class="book">
+            <img src="https://via.placeholder.com/300x450/111111/ffffff?text=Book+Cover+1" alt="Book cover placeholder">
+            <h4>Title One — Author Name</h4>
+          </div>
+          <div class="book">
+            <img src="https://via.placeholder.com/300x450/111111/ffffff?text=Book+Cover+2" alt="Book cover placeholder">
+            <h4>Title Two — Author Name</h4>
+          </div>
+          <div class="book">
+            <img src="https://via.placeholder.com/300x450/111111/ffffff?text=Book+Cover+3" alt="Book cover placeholder">
+            <h4>Title Three — Author Name</h4>
+          </div>
+        </div>
+
+      </section>
+
+      <section id="about">
+        <h2 style="margin-top:28px">About Us</h2>
+        <p class="muted">We are a full-service self-publishing partner helping authors across genres. Our team includes experienced editors, designers, and marketers who will treat your manuscript as if it were their own. We focus on transparent pricing, high-quality production and measurable results.</p>
+      </section>
+
+      <section id="contact">
+        <h2 style="margin-top:28px">Contact & Submissions</h2>
+        <div class="contact">
+          <div>
+            <h3 style="margin-bottom:6px">Submit your manuscript</h3>
+            <p class="muted">Use the form or email us at <a href="mailto:hello@yourpublishing.com">hello@yourpublishing.com</a> (replace with your address).</p>
+            <ul class="muted">
+              <li>What to include: brief author bio, manuscript genre, approx. word count, sample chapter (attach link or Google Drive).</li>
+              <li>Typical response time: 5–7 business days.</li>
+            </ul>
+          </div>
+
+          <form id="contactForm" action="https://formspree.io/f/your-form-id" method="POST">
+            <!-- Replace action above with your Formspree endpoint or server endpoint. Or change to mailto: if desired -->
+            <input type="text" name="name" placeholder="Full name" required>
+            <input type="email" name="email" placeholder="Email address" required>
+            <input type="text" name="title" placeholder="Book title (or working title)">
+            <select name="service">
+              <option value="editing">Editing</option>
+              <option value="design">Cover & Design</option>
+              <option value="formatting">Formatting</option>
+              <option value="marketing">Marketing</option>
+              <option value="other">Other / consultation</option>
+            </select>
+            <textarea name="message" placeholder="Tell us about your manuscript, links and files (Google Drive link recommended)"></textarea>
+            <button class="btn" type="submit">Send Submission</button>
+          </form>
+        </div>
+      </section>
+
+    </main>
+
+    <footer>
+      <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px;align-items:center">
+        <div>&copy; <span id="year"></span> Your Publishing Company — All rights reserved.</div>
+        <div style="color:var(--muted)">Designed for authors • <a href="#about">About</a> • <a href="#contact">Contact</a></div>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    // Small enhancement: open submit confirmation
+    const form = document.getElementById('contactForm');
+    form.addEventListener('submit', function(e){
+      // If using Formspree or server endpoint, you can remove this block.
+      // This client-side handler shows a quick confirmation then allows submission.
+      alert('Thanks! Your submission is being sent. We will reply within 5–7 business days.');
+    });
+  </script>
+</body>
+</html>

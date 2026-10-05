@@ -1,0 +1,127 @@
+{
+  "Amazon KDP": {
+    "asset": "assets/amazon-kdp.svg",
+    "role": "Direct publishing",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "Barnes & Noble": {
+    "asset": "assets/barnes-noble.svg",
+    "role": "Retail",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "IngramSpark": {
+    "asset": "assets/ingramspark.png",
+    "role": "Print & distribution",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "Apple Books": {
+    "asset": "assets/platforms/apple-books.svg",
+    "role": "Ebook & audio",
+    "source": "https://www.apple.com/apple-books/"
+  },
+  "Google Play Books": {
+    "asset": "assets/platforms/google-books.svg",
+    "role": "Ebook & audio",
+    "source": "https://play.google.com/store/books"
+  },
+  "Rakuten Kobo": {
+    "asset": "assets/platforms/kobo.webp",
+    "role": "Ebook & audio",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "Draft2Digital": {
+    "asset": "assets/platforms/draft2digital.webp",
+    "role": "Distribution",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "Indigo": {
+    "asset": "assets/platforms/indigo.svg",
+    "role": "Retail",
+    "source": "https://www.indigo.ca/cdn/shop/files/global_header_logo.svg?v=1746733738&width=600"
+  },
+  "Blackwell\u2019s": {
+    "asset": "assets/platforms/blackwells.svg",
+    "role": "Retail",
+    "source": "https://blackwells.co.uk/"
+  },
+  "James Bennett": {
+    "asset": "assets/platforms/james-bennett.webp",
+    "role": "Library supply",
+    "source": "https://bennett.com.au/wp-content/uploads/2025/07/jb-logo-cropped.png"
+  },
+  "Lulu": {
+    "asset": "assets/platforms/lulu.svg",
+    "role": "Print & publishing",
+    "source": "https://images.ctfassets.net/9htf9uzhsn4z/3tSSOSmHDmAKXuhUbZD27g/9f3a594a7c169dec01aea36d42179366/lulu-logo-slate.svg"
+  },
+  "Books-A-Million": {
+    "asset": "assets/platforms/books-a-million.webp",
+    "role": "Retail",
+    "source": "https://images.booksamillion.com/images/header/logo/bam_logo_1216.png"
+  },
+  "Powell\u2019s Books": {
+    "asset": "assets/platforms/powells.svg",
+    "role": "Retail",
+    "source": "https://images.contentstack.io/v3/assets/bltb207d0665725d072/blt010b058a48a3b833/67bf7b9c938bf53a2ef9aea2/p3-footer-logo_logo_footer_225x95_inline.svg?branch=prod&auto=webp&format=jpg"
+  },
+  "Everand": {
+    "asset": "assets/platforms/everand.svg",
+    "role": "Reading subscription",
+    "source": "https://assets.production.scribd.com/mfe-landing-pages/_next/static/media/everand_logo_wordmark.b9ccd369.svg"
+  },
+  "Smashwords": {
+    "asset": "assets/platforms/smashwords.webp",
+    "role": "Ebook retail",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "Tolino": {
+    "asset": "assets/platforms/tolino.webp",
+    "role": "Ebook",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "OverDrive": {
+    "asset": "assets/platforms/overdrive.webp",
+    "role": "Libraries",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "bibliotheca": {
+    "asset": "assets/platforms/bibliotheca.webp",
+    "role": "Libraries",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "BorrowBox": {
+    "asset": "assets/platforms/borrowbox.webp",
+    "role": "Libraries",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "hoopla": {
+    "asset": "assets/platforms/hoopla.webp",
+    "role": "Libraries",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "Vivlio": {
+    "asset": "assets/platforms/vivlio.webp",
+    "role": "Ebook",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "Gardners": {
+    "asset": "assets/platforms/gardners.webp",
+    "role": "Wholesale & distribution",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "Fable": {
+    "asset": "assets/platforms/fable.webp",
+    "role": "Ebook & discovery",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "Bookshop.org": {
+    "asset": "assets/platforms/bookshop.webp",
+    "role": "Retail",
+    "source": "https://draft2digital.com/partners/"
+  },
+  "Voices by INaudio": {
+    "asset": "assets/platforms/voices-inaudio.png",
+    "role": "Audiobook distribution",
+    "source": "https://draft2digital.com/partners/"
+  }
+}

@@ -7,3 +7,8 @@ Other photography: downloaded from Unsplash image CDN; exact source URLs in asse
 Platform logos: official assets sourced from the platforms’ public websites. URLs in assets/logo-sources.json. Used only to identify platforms; no partnership or endorsement represented. Brand usage should be reviewed before production.
 
 Official InkWell logo retained from supplied project.
+
+
+## October 5 conversion update
+Four editorial photos supplied by the owner are used as editorial imagery, not client portfolio work. Footer uses the official transparent logo with a monochrome CSS treatment on dark backgrounds. Fonts: Manrope and DM Serif Display, self-hosted subsets from Google Fonts (SIL Open Font License).
+Platform marks are identification only, not claims of partnership or guaranteed stocking. See assets/platforms/download-manifest.json for sources. Verify the chosen channels for each project. Bertrams and discontinued CreateSpace are excluded.

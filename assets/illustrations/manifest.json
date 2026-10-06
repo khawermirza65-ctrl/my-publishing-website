@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "city-after-dark-960.webp",
+    "original": "originals/city-after-dark.jpg",
+    "source_filename": "1991b67675497d625071bfe12a49d5b8.jpg",
+    "title": "The city after dark",
+    "category": "Editorial scenes",
+    "alt": "Illustrated apartment building and a bookshop glowing with warm lights on a rainy evening.",
+    "width": 673,
+    "height": 1200
+  },
+  {
+    "filename": "creative-corner-960.webp",
+    "original": "originals/creative-corner.jpg",
+    "source_filename": "814d2df7ddd9e74cb192f1a1b26e5660.jpg",
+    "title": "A corner for creating",
+    "category": "Editorial scenes",
+    "alt": "Colourful illustrated studio with a desk, books, plants and a comfortable daybed.",
+    "width": 1056,
+    "height": 1584
+  },
+  {
+    "filename": "artist-at-work-960.webp",
+    "original": "originals/artist-at-work.jpg",
+    "source_filename": "a7f03d82d63759c5f21cd0834188186a.jpg",
+    "title": "A world on the page",
+    "category": "Editorial scenes",
+    "alt": "Illustrated artist drawing at a wooden desk surrounded by pencils, books and houseplants.",
+    "width": 1200,
+    "height": 1748
+  },
+  {
+    "filename": "little-playroom-960.webp",
+    "original": "originals/little-playroom.jpg",
+    "source_filename": "ac5952ea2123c2b5e7ae8f515aa4213f.jpg",
+    "title": "A little world of play",
+    "category": "Picture-book scenes",
+    "alt": "A baby playing among colourful blocks, books and soft toys in an illustrated playroom.",
+    "width": 1200,
+    "height": 1920
+  },
+  {
+    "filename": "sunlit-kitchen-960.webp",
+    "original": "originals/sunlit-kitchen.jpg",
+    "source_filename": "c75c35d8e1ee48552ab0a41a21b5f4c1.jpg",
+    "title": "Morning in the kitchen",
+    "category": "Editorial scenes",
+    "alt": "Sunlight falling across a hand-drawn kitchen with turquoise cabinets and a breakfast table.",
+    "width": 1176,
+    "height": 1563
+  },
+  {
+    "filename": "bakery-morning-960.webp",
+    "original": "originals/bakery-morning.jpg",
+    "source_filename": "db14b279558a837174e8f28ea5af51cb.jpg",
+    "title": "The bakery wakes up",
+    "category": "Picture-book scenes",
+    "alt": "Illustrated baker holding freshly baked bread beside a brick oven and a table of pastries.",
+    "width": 736,
+    "height": 736
+  },
+  {
+    "filename": "cooking-together-960.webp",
+    "original": "originals/cooking-together.jpg",
+    "source_filename": "dd279f562ba23563fe2b6426655fae55.jpg",
+    "title": "Small everyday stories",
+    "category": "Editorial scenes",
+    "alt": "Overhead illustration of hands chopping a carrot beside vegetables and a kitchen chopping board.",
+    "width": 1199,
+    "height": 1010
+  },
+  {
+    "filename": "cookie-jar-960.webp",
+    "original": "originals/cookie-jar.jpg",
+    "source_filename": "f3592405eb268014b0d0fd017e5f67ca.jpg",
+    "title": "Just one more cookie",
+    "category": "Picture-book scenes",
+    "alt": "A little girl standing on a stack of books to reach a cookie jar on a kitchen counter.",
+    "width": 735,
+    "height": 927
+  }
+]

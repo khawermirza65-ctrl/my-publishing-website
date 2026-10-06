@@ -1,0 +1,98 @@
+[
+  {
+    "asset": "assets/illustrations/lantern-library.webp",
+    "thumbnail": "assets/illustrations/lantern-library-480.webp",
+    "title": "The library in the clouds",
+    "category": "Fantasy",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Asset type: finished illustration for InkWell Publishings' book illustration gallery. Create ONE complete original portrait-oriented artwork, not a collage, contact sheet, mockup or website screenshot. Scene: A tiny travelling librarian in a copper cloak crossing a delicate wooden bridge between floating islands, an ancient library with arched windows and warm lanterns, distant blue-green mist. Style/medium: Detailed gouache fantasy book illustration, painterly atmosphere, lovingly hand-painted textures, sophisticated storybook composition. Composition: portrait 2:3 illustration, beautiful coherent scene, expressive and carefully observed details; all important elements fully framed. It must feel like finished premium editorial/book artwork, with natural visual storytelling. No text, no letters, no numbers, no logos, no branding, no signature, no watermarks, no existing copyrighted characters. Do not put any words or titles inside the image. Cover concepts are artwork only, no title or author text."
+  },
+  {
+    "asset": "assets/illustrations/moonlit-fox.webp",
+    "thumbnail": "assets/illustrations/moonlit-fox-480.webp",
+    "title": "A fox beneath the moon",
+    "category": "Fantasy",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Asset type: finished illustration for InkWell Publishings' book illustration gallery. Create ONE complete original portrait-oriented artwork, not a collage, contact sheet, mockup or website screenshot. Scene: A red fox carrying a little brass lantern through a moonlit forest, mushrooms and delicate fern fronds in the foreground, a quiet ruined doorway glowing in the distance. Style/medium: Elegant atmospheric fantasy illustration, layered digital painting that looks like traditional oil and gouache, detailed natural textures. Composition: portrait 2:3 illustration, beautiful coherent scene, expressive and carefully observed details; all important elements fully framed. It must feel like finished premium editorial/book artwork, with natural visual storytelling. No text, no letters, no numbers, no logos, no branding, no signature, no watermarks, no existing copyrighted characters. Do not put any words or titles inside the image. Cover concepts are artwork only, no title or author text."
+  },
+  {
+    "asset": "assets/illustrations/coastal-watercolour.webp",
+    "thumbnail": "assets/illustrations/coastal-watercolour-480.webp",
+    "title": "A morning by the sea",
+    "category": "Watercolour",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Asset type: finished illustration for InkWell Publishings' book illustration gallery. Create ONE complete original portrait-oriented artwork, not a collage, contact sheet, mockup or website screenshot. Scene: A quiet Mediterranean fishing village seen from a seaside path, terracotta roofs, a small wooden boat near turquoise water, olive branches, a person reading on a stone bench. Style/medium: Loose luminous watercolour painting on textured off-white paper, visible brush marks, delicate warm sienna and teal washes, refined travel illustration. Composition: portrait 2:3 illustration, beautiful coherent scene, expressive and carefully observed details; all important elements fully framed. It must feel like finished premium editorial/book artwork, with natural visual storytelling. No text, no letters, no numbers, no logos, no branding, no signature, no watermarks, no existing copyrighted characters. Do not put any words or titles inside the image. Cover concepts are artwork only, no title or author text."
+  },
+  {
+    "asset": "assets/illustrations/garden-watercolour.webp",
+    "thumbnail": "assets/illustrations/garden-watercolour-480.webp",
+    "title": "Tea in the secret garden",
+    "category": "Watercolour",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Asset type: finished illustration for InkWell Publishings' book illustration gallery. Create ONE complete original portrait-oriented artwork, not a collage, contact sheet, mockup or website screenshot. Scene: A little wrought-iron garden table with two teacups and an open book beneath a blossoming tree, birds, climbing roses and a winding brick path through a secret garden. Style/medium: Airy traditional watercolour illustration, cold-press paper texture, delicate expressive pigment blooms, warm cream and earthy rose colours. Composition: portrait 2:3 illustration, beautiful coherent scene, expressive and carefully observed details; all important elements fully framed. It must feel like finished premium editorial/book artwork, with natural visual storytelling. No text, no letters, no numbers, no logos, no branding, no signature, no watermarks, no existing copyrighted characters. Do not put any words or titles inside the image. Cover concepts are artwork only, no title or author text."
+  },
+  {
+    "asset": "assets/illustrations/astronaut-character.webp",
+    "thumbnail": "assets/illustrations/astronaut-character-480.webp",
+    "title": "The smallest space explorer",
+    "category": "Character design",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Asset type: finished illustration for InkWell Publishings' book illustration gallery. Create ONE complete original portrait-oriented artwork, not a collage, contact sheet, mockup or website screenshot. Scene: An original adorable child astronaut with curly dark hair, a slightly oversized cream spacesuit with burnt-orange accents and a tiny companion robot, expressive friendly pose, small planet stones and stars, uncluttered muted warm background. Style/medium: Polished children's book character design illustration, coloured pencil and gouache with visible soft handmade texture, charming proportions, original character. Composition: portrait 2:3 illustration, beautiful coherent scene, expressive and carefully observed details; all important elements fully framed. It must feel like finished premium editorial/book artwork, with natural visual storytelling. No text, no letters, no numbers, no logos, no branding, no signature, no watermarks, no existing copyrighted characters. Do not put any words or titles inside the image. Cover concepts are artwork only, no title or author text."
+  },
+  {
+    "asset": "assets/illustrations/woodland-character.webp",
+    "thumbnail": "assets/illustrations/woodland-character-480.webp",
+    "title": "Meet the woodland postman",
+    "category": "Character design",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Asset type: finished illustration for InkWell Publishings' book illustration gallery. Create ONE complete original portrait-oriented artwork, not a collage, contact sheet, mockup or website screenshot. Scene: An original friendly hedgehog postman in an olive-green coat, small leather satchel filled with letters, holding one tiny envelope, standing on a mossy stump with a curious robin beside him. Style/medium: Whimsical picture-book character illustration, traditional soft gouache and coloured pencil, beautifully drawn expressive face, warm brown and rust palette. Composition: portrait 2:3 illustration, beautiful coherent scene, expressive and carefully observed details; all important elements fully framed. It must feel like finished premium editorial/book artwork, with natural visual storytelling. No text, no letters, no numbers, no logos, no branding, no signature, no watermarks, no existing copyrighted characters. Do not put any words or titles inside the image. Cover concepts are artwork only, no title or author text."
+  },
+  {
+    "asset": "assets/illustrations/rainy-day-comic.webp",
+    "thumbnail": "assets/illustrations/rainy-day-comic-480.webp",
+    "title": "The great umbrella rescue",
+    "category": "Comic art",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Create one complete original portrait 2:3 illustration for InkWell Publishings' illustration-style gallery. Scene: One vertical full-page three-panel silent comic. A child and a small dog notice a paper boat drifting away in a rainy park; they run together holding a red umbrella; the child rescues the boat and the dog wags joyfully. Consistent characters in all panels, complete clear story. Style/medium: Sophisticated hand-inked comic illustration, confident black outlines, warm muted terracotta and teal spot colours, subtle paper texture. Finished premium book artwork, clear readable visual storytelling, fine authentic handmade texture, coherent anatomy and expressive details. Comic pages must have exactly three consistent sequential panels. For all other artworks, one single full-page scene, no collage. No titles, labels, speech, numbers, logos, signatures, watermarks, existing copyrighted characters or book mockup. Cover concepts must be artwork only, without typography."
+  },
+  {
+    "asset": "assets/illustrations/robot-comic.webp",
+    "thumbnail": "assets/illustrations/robot-comic-480.webp",
+    "title": "A very helpful robot",
+    "category": "Comic art",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Create one complete original portrait 2:3 illustration for InkWell Publishings' illustration-style gallery. Scene: One vertical full-page three-panel silent comic in a cosy bookshop. A small round robot carefully stacks books; the teetering stack tips over; a smiling shopkeeper and the robot organise the books together. Consistent characters in all panels, clear humorous visual storytelling. Style/medium: Modern editorial graphic-novel illustration, clean expressive linework, rich brown cream and burnt-orange colours, handmade screenprint texture. Finished premium book artwork, clear readable visual storytelling, fine authentic handmade texture, coherent anatomy and expressive details. Comic pages must have exactly three consistent sequential panels. For all other artworks, one single full-page scene, no collage. No titles, labels, speech, numbers, logos, signatures, watermarks, existing copyrighted characters or book mockup. Cover concepts must be artwork only, without typography."
+  },
+  {
+    "asset": "assets/illustrations/wildflower-study.webp",
+    "thumbnail": "assets/illustrations/wildflower-study-480.webp",
+    "title": "Wildflowers in ink and colour",
+    "category": "Botanical",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Create one complete original portrait 2:3 illustration for InkWell Publishings' illustration-style gallery. Scene: Elegant botanical study of meadow flowers: poppies, daisies, cornflowers, grasses and fern fronds in a graceful balanced composition, stems and roots carefully observed, natural cream background. Style/medium: Detailed botanical pen-and-ink illustration with restrained transparent watercolour washes, delicate scientific observation, premium natural-history plate without labels. Finished premium book artwork, clear readable visual storytelling, fine authentic handmade texture, coherent anatomy and expressive details. Comic pages must have exactly three consistent sequential panels. For all other artworks, one single full-page scene, no collage. No titles, labels, speech, numbers, logos, signatures, watermarks, existing copyrighted characters or book mockup. Cover concepts must be artwork only, without typography."
+  },
+  {
+    "asset": "assets/illustrations/woodland-botanical.webp",
+    "thumbnail": "assets/illustrations/woodland-botanical-480.webp",
+    "title": "Treasures of the forest floor",
+    "category": "Botanical",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Create one complete original portrait 2:3 illustration for InkWell Publishings' illustration-style gallery. Scene: A beautifully arranged natural-history illustration of woodland mushrooms, an acorn, oak leaves, moss, a small pine cone and a curled fern, rich organic detail on warm cream paper. Style/medium: Vintage-inspired botanical book illustration, very fine ink hatching and subtle earth-coloured watercolour washes, accurately rendered organic textures. Finished premium book artwork, clear readable visual storytelling, fine authentic handmade texture, coherent anatomy and expressive details. Comic pages must have exactly three consistent sequential panels. For all other artworks, one single full-page scene, no collage. No titles, labels, speech, numbers, logos, signatures, watermarks, existing copyrighted characters or book mockup. Cover concepts must be artwork only, without typography."
+  },
+  {
+    "asset": "assets/illustrations/lighthouse-cover.webp",
+    "thumbnail": "assets/illustrations/lighthouse-cover-480.webp",
+    "title": "The lighthouse at dusk",
+    "category": "Cover concepts",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Create one complete original portrait 2:3 illustration for InkWell Publishings' illustration-style gallery. Scene: An evocative illustrated literary book-cover artwork of a lonely lighthouse on a rocky coast at dusk, a small warm-lit window, layered dark ocean waves and a distant single boat, large elegant moon and expressive dramatic sky. Style/medium: Premium original literary cover illustration, sophisticated linocut and woodblock-inspired textures, limited ink-black cream copper and deep teal palette. Finished premium book artwork, clear readable visual storytelling, fine authentic handmade texture, coherent anatomy and expressive details. Comic pages must have exactly three consistent sequential panels. For all other artworks, one single full-page scene, no collage. No titles, labels, speech, numbers, logos, signatures, watermarks, existing copyrighted characters or book mockup. Cover concepts must be artwork only, without typography."
+  },
+  {
+    "asset": "assets/illustrations/mythic-door-cover.webp",
+    "thumbnail": "assets/illustrations/mythic-door-cover-480.webp",
+    "title": "A doorway to another world",
+    "category": "Cover concepts",
+    "generation_mode": "built-in image generation",
+    "prompt": "Use case: illustration-story. Create one complete original portrait 2:3 illustration for InkWell Publishings' illustration-style gallery. Scene: An ornate antique door standing in a wild garden, the open doorway revealing a luminous celestial night sky, delicate vine leaves, a moth and tiny stars arranged with elegant negative space. Style/medium: Premium original fantasy cover illustration, intricate ink engraving mixed with restrained painterly copper and gold details, rich black brown and warm cream palette. Finished premium book artwork, clear readable visual storytelling, fine authentic handmade texture, coherent anatomy and expressive details. Comic pages must have exactly three consistent sequential panels. For all other artworks, one single full-page scene, no collage. No titles, labels, speech, numbers, logos, signatures, watermarks, existing copyrighted characters or book mockup. Cover concepts must be artwork only, without typography."
+  }
+]

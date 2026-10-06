@@ -1,5 +1,91 @@
 [
   {
+    "filename": "artist-at-work-960.webp",
+    "original": "originals/artist-at-work.jpg",
+    "source_filename": "a7f03d82d63759c5f21cd0834188186a.jpg",
+    "title": "A world on the page",
+    "category": "Editorial scenes",
+    "alt": "Illustrated artist drawing at a wooden desk surrounded by pencils, books and houseplants.",
+    "width": 1200,
+    "height": 1748
+  },
+  {
+    "filename": "woodland-character.webp",
+    "thumbnail": "woodland-character-480.webp",
+    "original": "woodland-character.webp",
+    "title": "Meet the woodland postman",
+    "category": "Character design",
+    "alt": "A friendly illustrated hedgehog postman holding an envelope, wearing a green coat and satchel, beside a robin.",
+    "width": 1024,
+    "height": 1536,
+    "source_origin": "ai_generated_concept"
+  },
+  {
+    "filename": "lantern-library.webp",
+    "thumbnail": "lantern-library-480.webp",
+    "original": "lantern-library.webp",
+    "title": "The library in the clouds",
+    "category": "Fantasy",
+    "alt": "A cloaked traveller crossing a rope bridge towards a lantern-lit library on floating islands above the clouds.",
+    "width": 1024,
+    "height": 1536,
+    "source_origin": "ai_generated_concept"
+  },
+  {
+    "filename": "coastal-watercolour.webp",
+    "thumbnail": "coastal-watercolour-480.webp",
+    "original": "coastal-watercolour.webp",
+    "title": "A morning by the sea",
+    "category": "Watercolour",
+    "alt": "Watercolour scene of a reader beside a Mediterranean harbour with terracotta roofs, a boat and olive branches.",
+    "width": 1024,
+    "height": 1536,
+    "source_origin": "ai_generated_concept"
+  },
+  {
+    "filename": "little-playroom-960.webp",
+    "original": "originals/little-playroom.jpg",
+    "source_filename": "ac5952ea2123c2b5e7ae8f515aa4213f.jpg",
+    "title": "A little world of play",
+    "category": "Picture-book scenes",
+    "alt": "A baby playing among colourful blocks, books and soft toys in an illustrated playroom.",
+    "width": 1200,
+    "height": 1920
+  },
+  {
+    "filename": "wildflower-study.webp",
+    "thumbnail": "wildflower-study-480.webp",
+    "original": "wildflower-study.webp",
+    "title": "Wildflowers in ink and colour",
+    "category": "Botanical",
+    "alt": "Botanical ink and watercolour illustration of poppies, daisies, cornflowers and grasses with delicate roots on cream paper.",
+    "width": 1024,
+    "height": 1536,
+    "source_origin": "ai_generated_concept"
+  },
+  {
+    "filename": "rainy-day-comic.webp",
+    "thumbnail": "rainy-day-comic-480.webp",
+    "original": "rainy-day-comic.webp",
+    "title": "The great umbrella rescue",
+    "category": "Comic art",
+    "alt": "Three-panel illustrated story of a child and dog rescuing a paper boat in a rainy park under a red umbrella.",
+    "width": 1024,
+    "height": 1536,
+    "source_origin": "ai_generated_concept"
+  },
+  {
+    "filename": "lighthouse-cover.webp",
+    "thumbnail": "lighthouse-cover-480.webp",
+    "original": "lighthouse-cover.webp",
+    "title": "The lighthouse at dusk",
+    "category": "Cover concepts",
+    "alt": "An illustrated lighthouse above dark ocean waves at dusk with a glowing moon and distant sailboat, in a woodcut style.",
+    "width": 1024,
+    "height": 1536,
+    "source_origin": "ai_generated_concept"
+  },
+  {
     "filename": "city-after-dark-960.webp",
     "original": "originals/city-after-dark.jpg",
     "source_filename": "1991b67675497d625071bfe12a49d5b8.jpg",
@@ -8,6 +94,39 @@
     "alt": "Illustrated apartment building and a bookshop glowing with warm lights on a rainy evening.",
     "width": 673,
     "height": 1200
+  },
+  {
+    "filename": "moonlit-fox.webp",
+    "thumbnail": "moonlit-fox-480.webp",
+    "original": "moonlit-fox.webp",
+    "title": "A fox beneath the moon",
+    "category": "Fantasy",
+    "alt": "A red fox with a glowing lantern in a moonlit forest, beside ferns and an illuminated ruined doorway.",
+    "width": 1024,
+    "height": 1536,
+    "source_origin": "ai_generated_concept"
+  },
+  {
+    "filename": "garden-watercolour.webp",
+    "thumbnail": "garden-watercolour-480.webp",
+    "original": "garden-watercolour.webp",
+    "title": "Tea in the secret garden",
+    "category": "Watercolour",
+    "alt": "Watercolour secret garden with a wrought-iron table, teacups, an open book, climbing roses and flowering trees.",
+    "width": 1024,
+    "height": 1536,
+    "source_origin": "ai_generated_concept"
+  },
+  {
+    "filename": "astronaut-character.webp",
+    "thumbnail": "astronaut-character-480.webp",
+    "original": "astronaut-character.webp",
+    "title": "The smallest space explorer",
+    "category": "Character design",
+    "alt": "Illustrated curly-haired child astronaut in a cream and orange spacesuit with a friendly small robot on a rocky planet.",
+    "width": 1024,
+    "height": 1536,
+    "source_origin": "ai_generated_concept"
   },
   {
     "filename": "creative-corner-960.webp",
@@ -20,24 +139,37 @@
     "height": 1584
   },
   {
-    "filename": "artist-at-work-960.webp",
-    "original": "originals/artist-at-work.jpg",
-    "source_filename": "a7f03d82d63759c5f21cd0834188186a.jpg",
-    "title": "A world on the page",
-    "category": "Editorial scenes",
-    "alt": "Illustrated artist drawing at a wooden desk surrounded by pencils, books and houseplants.",
-    "width": 1200,
-    "height": 1748
+    "filename": "woodland-botanical.webp",
+    "thumbnail": "woodland-botanical-480.webp",
+    "original": "woodland-botanical.webp",
+    "title": "Treasures of the forest floor",
+    "category": "Botanical",
+    "alt": "Detailed botanical illustration of woodland mushrooms, fern fronds, moss, oak leaves, an acorn and a pine cone.",
+    "width": 1024,
+    "height": 1536,
+    "source_origin": "ai_generated_concept"
   },
   {
-    "filename": "little-playroom-960.webp",
-    "original": "originals/little-playroom.jpg",
-    "source_filename": "ac5952ea2123c2b5e7ae8f515aa4213f.jpg",
-    "title": "A little world of play",
-    "category": "Picture-book scenes",
-    "alt": "A baby playing among colourful blocks, books and soft toys in an illustrated playroom.",
-    "width": 1200,
-    "height": 1920
+    "filename": "robot-comic.webp",
+    "thumbnail": "robot-comic-480.webp",
+    "original": "robot-comic.webp",
+    "title": "A very helpful robot",
+    "category": "Comic art",
+    "alt": "Three-panel comic of a small robot and a bookshop owner stacking, dropping and tidying a collection of books.",
+    "width": 1024,
+    "height": 1536,
+    "source_origin": "ai_generated_concept"
+  },
+  {
+    "filename": "mythic-door-cover.webp",
+    "thumbnail": "mythic-door-cover-480.webp",
+    "original": "mythic-door-cover.webp",
+    "title": "A doorway to another world",
+    "category": "Cover concepts",
+    "alt": "An ornate golden door covered in vines opening onto a starry celestial landscape, with a moth and pale flowers.",
+    "width": 1024,
+    "height": 1536,
+    "source_origin": "ai_generated_concept"
   },
   {
     "filename": "sunlit-kitchen-960.webp",

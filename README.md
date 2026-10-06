@@ -1,11 +1,11 @@
 # InkWell Publishings — complete static preview
 
-Preview: https://khawermirza65-ctrl.github.io/my-publishing-website/?v=6
-Illustrations: https://khawermirza65-ctrl.github.io/my-publishing-website/illustrations/?v=6
+Preview: https://khawermirza65-ctrl.github.io/my-publishing-website/?v=7
+Illustrations: https://khawermirza65-ctrl.github.io/my-publishing-website/illustrations/?v=7
 
 ## Changes
 
-Removed repeated footer enquiry sections and retained each original hero form. All enquiry buttons target that form. Rebuilt the footer across all current pages with seven social SVG icons, five payment marks, the address placeholder, service regions and both clickable emails. Added Illustrations to main navigation and footer links. The new gallery contains all eight supplied images, category filters, a 4/2/1-column layout and an accessible original-size lightbox with arrow keys, Escape, focus trapping and restoration. Images load lazily using responsive WebP files. Without JavaScript, the whole gallery remains visible and its links open the original JPGs. Existing palette, fonts, header and other page content are preserved. The new page has a unique title, description, canonical, structured data, descriptive alt text and sitemap entry.
+Removed repeated footer enquiry sections and retained each original hero form. All enquiry buttons target that form. Rebuilt the footer across all current pages with seven social SVG icons, five payment marks, the address placeholder, service regions and both clickable emails. Added Illustrations to main navigation and footer links. The gallery contains all eight supplied images plus twelve generated illustration concepts, with eight categories, a 4/2/1-column layout and an accessible original-size lightbox with arrow keys, Escape, focus trapping and restoration. Images load lazily using responsive WebP files. Without JavaScript, the whole gallery remains visible and its links open the original JPGs. Existing palette, fonts, header and other page content are preserved. The new page has a unique title, description, canonical, structured data, descriptive alt text and sitemap entry.
 
 ## Installation and exact asset locations
 
@@ -16,8 +16,10 @@ Use the complete `my-publishing-website/` folder from the handover ZIP and repla
 - Existing shared behavior: `assets/site.js`
 - New gallery behavior: `assets/illustrations.js`
 - Local social/payment/contact SVG sprite: `assets/footer-icons.svg`
-- All eight responsive image pairs: `assets/illustrations/{name}-480.webp` and `{name}-960.webp`
-- All eight full-resolution JPGs: `assets/illustrations/originals/{name}.jpg`
+- The eight supplied responsive image pairs: `assets/illustrations/{name}-480.webp` and `{name}-960.webp`
+- The eight supplied full-resolution JPGs: `assets/illustrations/originals/{name}.jpg`
+- Twelve new concepts: `assets/illustrations/{name}.webp` at full resolution and `{name}-480.webp` as gallery thumbnails. The new lightbox links use the full-resolution WebP files.
+- Generated concept prompts and asset paths: `assets/illustrations/generated-concepts.json`
 - Filename mapping, labels, dimensions and categories: `assets/illustrations/manifest.json`
 
 Image names are `city-after-dark`, `creative-corner`, `artist-at-work`, `little-playroom`, `sunlit-kitchen`, `bakery-morning`, `cooking-together` and `cookie-jar`.
@@ -48,6 +50,9 @@ For the production domain, change `/my-publishing-website/` prefixes to `/`, rep
 
 ## Verification and assets
 
-Browser checks passed on 22 current pages at widths 1440, 768, 390 and 320 pixels: no horizontal overflow, one retained form where present, working CTA targets, social/payment icons, filters, lightbox navigation, keyboard/focus handling, mobile menu, form validation and the JavaScript-disabled gallery. No failed network requests or script errors were recorded. Structured data was checked. The preserved legacy `publishing_website.html` is outside current navigation.
+The footer update was checked on all 22 current pages. This gallery expansion was checked on the illustration page and home navigation at widths 1440, 768, 390 and 320 pixels: no horizontal overflow, one retained form where present, working CTA targets, social/payment icons, filters, lightbox navigation, keyboard/focus handling, mobile menu, form validation and the JavaScript-disabled gallery. No failed network requests or script errors were recorded. Structured data was checked. The preserved legacy `publishing_website.html` is outside current navigation.
 
-Illustrations are labelled as supplied visual references, not verified InkWell client work. See `ASSETS.md` for attribution and existing image/font notes.
+Illustrations are labelled as supplied references and generated concepts, not verified InkWell client work. See `ASSETS.md` for attribution and existing image/font notes.
+
+## Twenty-illustration gallery update
+The gallery contains 20 unique artworks: 3 picture-book scenes, 5 editorial scenes, and 2 each in Fantasy, Watercolour, Character design, Comic art, Botanical and Cover concepts. New art was created using built-in image generation; prompt specs and final project asset paths are in assets/illustrations/generated-concepts.json. All images have descriptive alt text, lazy loading and full-size lightbox links. The opening rows deliberately mix styles. Existing header, footer, enquiry form and service content are retained.
